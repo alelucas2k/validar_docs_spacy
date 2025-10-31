@@ -126,14 +126,3 @@ criterios_obrigatorios = {
 
 ---
 
-## 🧰 Personalização
-
-- Adicione ou edite **padrões NER** no array `patterns` em `analisar_spacy.py` para adaptar a novos formatos de documentos.
-- Modifique o prompt dentro de `extrair_texto_via_gemini()` para ajustar o comportamento da extração textual.
-
----
-
-## 📄 Licença
-
-Este projeto é de uso interno e educacional, desenvolvido para automação e validação de documentos públicos.  
-Licença: **MIT License**
