@@ -58,12 +58,6 @@ No terminal:
 python main.py
 ```
 
-### Etapas:
-- **Etapa 1**: (opcional) extrai o texto via Gemini e salva em `texts_extraidos/`  
-  (descomente `processar_pdfs()` no `main.py` se quiser rodar)
-- **Etapa 2**: analisa e valida os textos extraídos com spaCy.
-
----
 
 ## 🧮 Exemplo de Saída
 
